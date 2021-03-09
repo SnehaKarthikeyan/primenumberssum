@@ -12,6 +12,10 @@ Ouput Description:
 
 Print the minimum and maximum prime numbers from 1 to N whose sum gives the value of N separated by a space.
 
+Hints:
+
+Traverse and find the minimum and maximum prime numbers from 1 to N whose sum gives the value of N
+
 Sample Input:
 
 43
