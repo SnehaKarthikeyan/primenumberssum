@@ -24,7 +24,7 @@ Sample Output:
 
 2 41
 
-Explanantion:
+Explanation:
 
 The minimum and maximum prime numbers from 1 to N whose sum gives the value of N are 2 and 41, so the output is 2 41
 
